@@ -1,0 +1,5 @@
+Junior Project Application Development:
+	This app is designed to communicate with HerbIO uController in order to control and
+	monitor users' greenhouse activities.
+	
+	App utilizes Node and React-Native js.
