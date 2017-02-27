@@ -1,0 +1,4 @@
+Libraries
+
+MenuOptions:
+	https://www.npmjs.com/package/react-native-menu

@@ -1,0 +1,6 @@
+will need to come up with constant multipliers for each data set
+this will require a graph for every data type.
+
+Linear graphs will be implemented.
+
+come up with some type of consistent axes names, yet still be able to distinguish them apart. IE: xValue, yValue
